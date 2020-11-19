@@ -37,6 +37,11 @@
         "restocking",
         "notAvailable"
       ]
+    },
+    "categories": {
+      "collection": "category",
+      "via": "products",
+      "dominant": true
     }
   }
 }

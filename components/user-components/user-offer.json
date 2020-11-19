@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_user_components_user_offers",
+  "info": {
+    "name": "userOffer",
+    "icon": "columns"
+  },
+  "options": {},
+  "attributes": {
+    "product": {
+      "model": "product"
+    },
+    "amount": {
+      "type": "biginteger"
+    }
+  }
+}
