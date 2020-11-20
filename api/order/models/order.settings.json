@@ -37,6 +37,9 @@
     },
     "code": {
       "type": "string"
+    },
+    "total": {
+      "type": "decimal"
     }
   }
 }
