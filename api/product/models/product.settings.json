@@ -10,13 +10,16 @@
   },
   "attributes": {
     "name": {
-      "type": "string"
+      "type": "string",
+      "required": true
     },
     "description": {
-      "type": "richtext"
+      "type": "richtext",
+      "required": true
     },
     "price": {
-      "type": "decimal"
+      "type": "decimal",
+      "required": true
     },
     "photo": {
       "model": "file",
